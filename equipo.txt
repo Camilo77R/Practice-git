@@ -1,0 +1,4 @@
+EQUIPO PRACTICA GIT
+-----------------------------------------------------
+instrucciones:
+cada integrante agregará  su nombre y qué va a construir
